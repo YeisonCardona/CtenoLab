@@ -1,1 +1,0 @@
-import{V as c,j as i}from"./chunk-NCBRYYCQ.js";var r=class t{activeLinkSubject=new i("");activeLink$=this.activeLinkSubject.asObservable();setActiveLink(e){this.activeLinkSubject.next(e)}static \u0275fac=function(a){return new(a||t)};static \u0275prov=c({token:t,factory:t.\u0275fac,providedIn:"root"})};export{r as a};
