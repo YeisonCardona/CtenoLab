@@ -1,2 +1,0 @@
-import{a as r}from"./chunk-ZVYDUR5Q.js";import{k as a}from"./chunk-KFVTMFI6.js";import{Db as m,La as i,Ta as n}from"./chunk-OT33TOH6.js";var c=class t{constructor(e){this.navigationService=e;e.setActiveLink("/home")}static \u0275fac=function(o){return new(o||t)(i(r))};static \u0275cmp=n({type:t,selectors:[["app-home"]],decls:1,vars:0,template:function(o,s){o&1&&m(0,`HOLA
-`)},dependencies:[a],encapsulation:2})};export{c as Home};
