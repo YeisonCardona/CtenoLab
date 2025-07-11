@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1752201277309,
+  "timestamp": 1752203434745,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -151,6 +151,7 @@
         "/assets/icons/icon-512x512.png",
         "/assets/images/branding/cteno_logo_dark.svg",
         "/assets/images/branding/cteno_logo_light.svg",
+        "/assets/images/branding/logo_horizontal.png",
         "/assets/images/hardware/1to3hub.webp",
         "/assets/images/hardware/cable.webp",
         "/assets/images/hardware/cardputer.webp",
@@ -237,6 +238,7 @@
     "/assets/icons/icon-512x512.png": "b11d7d553b82c8a077c2a6d7b4b59180f5b29175",
     "/assets/images/branding/cteno_logo_dark.svg": "8a2d2557fd9c9a1931ccbb6fb4e9af82a72b1f62",
     "/assets/images/branding/cteno_logo_light.svg": "500c51414196c930d17c224f9fa2b17f6c7f77ba",
+    "/assets/images/branding/logo_horizontal.png": "2bd68916f54740f370b4e4ec07b3ec6eb486a9a9",
     "/assets/images/hardware/1to3hub.webp": "02b2621fe728350278e09bb9a54cbdba8429050c",
     "/assets/images/hardware/cable.webp": "bfa60895c8b6d1589c8c01c648a91db7efab5186",
     "/assets/images/hardware/cardputer.webp": "f7d1dd969d51af1a44b7693d43933f5406883279",
@@ -305,7 +307,7 @@
     "/cteno_logo.svg": "5bb60574c50c0e4fb0421459c632775861d74cb0",
     "/favicon.ico": "28223e1554ef54327e9cbb5db015deafdfbcc944",
     "/favicon.png": "baef56891b99254e592dfab6a93f6d105dde4e1e",
-    "/index.html": "7750f8316e2fda87a6a7c8436f580f2293a73e87",
+    "/index.html": "59c9f8374f3a4749ca9e1fb694d603de5ab98746",
     "/main-BDL6K56X.js": "b94519bd30bb03d917b21bf5aab8e60e7a8a767c",
     "/manifest.webmanifest": "129e4f08fe0a2cfe307807b947783aa725190d03",
     "/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
