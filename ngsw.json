@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1752203434745,
+  "timestamp": 1752203607438,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -307,7 +307,7 @@
     "/cteno_logo.svg": "5bb60574c50c0e4fb0421459c632775861d74cb0",
     "/favicon.ico": "28223e1554ef54327e9cbb5db015deafdfbcc944",
     "/favicon.png": "baef56891b99254e592dfab6a93f6d105dde4e1e",
-    "/index.html": "59c9f8374f3a4749ca9e1fb694d603de5ab98746",
+    "/index.html": "0c2241b92298c44a3bc866125ead7c2424192bcb",
     "/main-BDL6K56X.js": "b94519bd30bb03d917b21bf5aab8e60e7a8a767c",
     "/manifest.webmanifest": "129e4f08fe0a2cfe307807b947783aa725190d03",
     "/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
