@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1752348242414,
+  "timestamp": 1752349086189,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -73,7 +73,7 @@
         "/chunk-ZSOYSSWO.js",
         "/favicon.ico",
         "/index.html",
-        "/main-QTWVA2VI.js",
+        "/main-I7DOM7WZ.js",
         "/manifest.webmanifest",
         "/polyfills-B6TNHZQ6.js",
         "/styles-ZC2WRBR2.css"
@@ -317,8 +317,8 @@
     "/cteno_logo.svg": "5bb60574c50c0e4fb0421459c632775861d74cb0",
     "/favicon.ico": "28223e1554ef54327e9cbb5db015deafdfbcc944",
     "/favicon.png": "baef56891b99254e592dfab6a93f6d105dde4e1e",
-    "/index.html": "8720c337ce248e41f3f98947209fe6ecf705766f",
-    "/main-QTWVA2VI.js": "835b129c2ef4ea52101c3b62db00ecf727dba71e",
+    "/index.html": "94d4a101cf3c1206f8ef2cd0460407c0ca4c8c81",
+    "/main-I7DOM7WZ.js": "5d311f0bbbf4f1c703940a25b9d5758daf628547",
     "/manifest.webmanifest": "129e4f08fe0a2cfe307807b947783aa725190d03",
     "/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
     "/styles-ZC2WRBR2.css": "3a54d29bef1b2e8516b6837d173438fc61f7f0d2"
