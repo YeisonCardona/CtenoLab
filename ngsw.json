@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1755730024185,
+  "timestamp": 1755732758953,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -298,8 +298,8 @@
     "/assets/fonts/Roboto/static/Roboto_SemiCondensed-SemiBoldItalic.ttf": "ba86508b1d08f6e0e4ff2ca71b35521007ed9994",
     "/assets/fonts/Roboto/static/Roboto_SemiCondensed-Thin.ttf": "efa3716adfba5bdb3ec38de4261c10c3c614ed51",
     "/assets/fonts/Roboto/static/Roboto_SemiCondensed-ThinItalic.ttf": "4015948dfdcc05da6c01e8950dc1f09bb0cc3ed0",
-    "/assets/icons/icon-192x192.png": "1977c835d72ca5c4a65d17f730c4724392770136",
-    "/assets/icons/icon-512x512.png": "0f445fb3b5e288812c0164885b197341150e3470",
+    "/assets/icons/icon-192x192.png": "377a13f8d334f5fd453bc32a37a085ecef0b38fb",
+    "/assets/icons/icon-512x512.png": "2c126b65504447babb9b3206afc36ab3f4069d04",
     "/assets/images/benchmarks/serial_linear.svg": "00553935d8514427f2e887f359e25c2dbf57739c",
     "/assets/images/benchmarks/serial_log.svg": "3c6ead89fa8f3cac79e8238d2d12203d556dba35",
     "/assets/images/benchmarks/usb_linear.svg": "9a82981ba24e66ed12c8f62e6f4f39038b7e5ff6",
