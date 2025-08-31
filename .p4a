@@ -1,0 +1,6 @@
+--package com.dunderlab.cteno
+--name "CtenoLab"
+--dist_name cteno
+--version 0.1
+--port 5008
+--requirements python3,hostpython3,sqlite3,sqlparse,asgiref,pytz,pyjnius
